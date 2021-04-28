@@ -1,3 +1,5 @@
+> :warning: **This repository now lives at [rigup/ephemeral-iam](https://github.com/rigup/ephemeral-iam)**
+
 # ephemeral-iam
 
 ![ephemeral-iam logo](docs/img/logo.png)
